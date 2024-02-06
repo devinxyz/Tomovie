@@ -1,0 +1,118 @@
+body {
+    min-height: 3500px;
+    color: whitesmoke;
+    
+  }
+  
+  .navbar {
+    min-height: 70px;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+    background-color: #000000;
+    opacity: 70%;
+    
+    
+  }
+
+  .brand {
+    color: #ff0000;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    
+  }
+
+  .card {
+    height: 65vh;
+    background-color: #030b17;
+    font-family: 'Poppins', sans-serif;
+  
+  }
+
+  
+
+  
+  .text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    background-color: #030b17;
+    overflow: hidden;
+    padding-bottom: 5rem;
+    
+ 
+
+  }
+  
+  #banner {
+    background-color: #030b17;
+    font-family: 'Poppins', sans-serif;
+    
+  }
+
+  #movies {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    overflow: hidden;
+  }
+  
+  #series {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    overflow: hidden;
+  }
+  
+  #projects {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    overflow: hidden;
+    
+  }
+  
+  #skill {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    font-size: 50px;
+    overflow: hidden;
+    
+  }
+
+  #about {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    font-size: 15px;
+    overflow: hidden;
+  }
+  
+  #login {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    overflow: hidden;
+    padding-bottom: 7rem;
+  }
+  
+  #footer {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    font-size: 15px;
+    color: #b6c6d2;
+  }
+
+  #film {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    overflow: hidden;
+    
+ 
+  }
+
+  #surat {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030b17;
+    overflow: hidden;
+    padding-bottom: 5rem;
+  }
+
+  section {
+    padding-top: 7rem;
+  }
+
+  
